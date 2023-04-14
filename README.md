@@ -1,4 +1,4 @@
-obuchenie_s_uchitelem_dmitrak.ipynb
+### obuchenie_s_uchitelem_dmitrak.ipynb ###
 
 Работа выполнялась для банка с целью спрогнозировать уход клиентов на основании истории их поведения. 
 Были построены модели дерева решений, случайного леса и логистической регрессии и выбрана лучшая модель на основании максимизации F1-меры.
@@ -6,12 +6,12 @@ obuchenie_s_uchitelem_dmitrak.ipynb
 Лучшей моделью оказалась модель "Случайного леса" с увеличением выборки.
 
 
-Использованные инструменты:
+**Использованные инструменты:**
 
-scikit-learn
-imblearn
-pandas
-seaborn
-matplotlib
-re
-numpy
+- scikit-learn
+- imblearn
+- pandas
+- seaborn
+- matplotlib
+- re
+- numpy
